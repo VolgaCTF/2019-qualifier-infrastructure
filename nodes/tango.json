@@ -1,0 +1,17 @@
+{
+  "name": "tango",
+  "chef_environment": "production",
+  "normal": {
+    "knife_zero": {
+      "host": "tango.server.volgactf.org"
+    }
+  },
+  "automatic": {
+    "fqdn": "tango.server.volgactf.org",
+    "platform": "ubuntu",
+    "platform_version": "18.04"
+  },
+  "run_list": [
+    "recipe[main::qualifier_server]"
+  ]
+}

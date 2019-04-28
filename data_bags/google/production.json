@@ -1,0 +1,10 @@
+{
+  "id": "production",
+  "tango.server.volgactf.org": {
+    "encrypted_data": "zEme40VHGJp9BZ5k0OJDrrYDN7LPgM62Nl1Tbua4qHHaTKAz7y0veftMGaM=\n",
+    "iv": "K1xZ4sA16aWdehWS\n",
+    "auth_tag": "M8eIA3+V9ncYpFTely4Q/w==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

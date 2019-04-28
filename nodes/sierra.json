@@ -1,0 +1,17 @@
+{
+  "name": "sierra",
+  "chef_environment": "production",
+  "normal": {
+    "knife_zero": {
+      "host": "sierra.server.volgactf.org"
+    }
+  },
+  "automatic": {
+    "fqdn": "sierra.server.volgactf.org",
+    "platform": "ubuntu",
+    "platform_version": "18.04"
+  },
+  "run_list": [
+    "recipe[main::irc_server]"
+  ]
+}

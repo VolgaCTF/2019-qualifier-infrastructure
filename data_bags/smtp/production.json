@@ -1,0 +1,17 @@
+{
+  "id": "production",
+  "sierra.server.volgactf.org": {
+    "encrypted_data": "mXLIfH5R2UJiHwCPdiDAgPo9zX5YusLZtDXzTolaGkO+FswJmbYzL+/SMqJY\nqaf2mkTR4f7n7YNbe2eWaqMHczKUM8q6H6COn/V1GW704g4rossPtdiT9ksy\n6NSy2uzA89Ox\n",
+    "iv": "PfA/1sc9lj1wnDoQ\n",
+    "auth_tag": "dAwuix2vtTt41iiI0/WV5g==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "tango.server.volgactf.org": {
+    "encrypted_data": "n+IoZgmPbGrxqduDSVelJeVEbAF3QIQlIMXdqe7PB0KaWItjFoYzdNiF5jdY\nY6ctafUIbRgl3h0o/stu6ZB5hMW1ckyhTOB0zMNO17ykomC8A3r0wC7BXXwU\nrShbEg7paSkI\n",
+    "iv": "F8H0+RsT6bmAGgMz\n",
+    "auth_tag": "8FGuvzD8W1kjUhOEyDxMaQ==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

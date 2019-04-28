@@ -1,0 +1,10 @@
+{
+  "id": "production",
+  "tango.server.volgactf.org": {
+    "encrypted_data": "yRxnIYY/y9xxtmhBKKxNPcCU3aRajISA4dJskmdeULdkYY17IUBmHlz9VpQP\nvs8AsPQ4U1iOlIRGJ+d6z2HHiM/kWSkM3wc7suIt47Z30EP+npijtl0OJSRI\nF3dAgWnWsFi77lpV5PPaAlsWIEvvB58w9tOe04nB0an3krWfhf6NOX78+V2Z\n+aeBir+0MwpMgcYeWQKg8wkLDEApjQbCFYaU/ExkNa+cSJBAdFQWYTRX08sk\n45cKPAmDo3dNF+pVVsutqO2pmTXIFu7auAwTW6xMeXFwqDimxSPY2ZsGKw44\nNAwgP2X9D+9WYEiKGt5/PaK7AlUxyt+0DELnyLoeRsYny+36sch8tBf0cKvI\n",
+    "iv": "ACrnRQRgWelCPdjc\n",
+    "auth_tag": "jnHNp0CgXSVgpO36b3nysw==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
